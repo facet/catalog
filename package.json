@@ -1,0 +1,24 @@
+{
+  "name": "facet-catalog",
+  "version": "0.0.1",
+  "description": "Wrapper for product and category facets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/facet/catalog.git"
+  },
+  "keywords": [
+    "facet",
+    "facet-catalog",
+    "catalog"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/facet/catalog/issues"
+  },
+  "homepage": "https://github.com/facet/catalog"
+}
