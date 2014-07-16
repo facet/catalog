@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/facet/catalog/issues"
   },
-  "homepage": "https://github.com/facet/catalog"
+  "homepage": "https://github.com/facet/catalog",
+  "dependencies": {
+    "facet-core": "https://github.com/facet/core/tarball/master",
+    "facet-category": "https://github.com/facet/category/tarball/master",
+    "facet-product": "https://github.com/facet/product/tarball/master"
+  }
 }
